@@ -1,22 +1,38 @@
-# ⛏️ TSH Bot (Time Stamped Hash)
+# ⛏️ TSH Telegram Bot
 
-This repository contains a Telegram bot for the **TSH (Time Stamped Hash)** project.
+Telegram bot for mining unique SHA-256 hashes.  
+This is a **read-only** repository — you can study the code, but not use it in any way.
 
-> This code is provided **for educational purposes only** and cannot be used in any way without explicit permission.
+> This project is protected under a [Read-Only License](LICENSE).  
+> You may only view and analyze the source code.
 
-## 📌 Features
+---
 
-- Mining unique SHA-256 hashes based on time
-- Sending TSH between users with dynamic fees
-- Admin broadcasting to all users
+## 🔧 Features
+
+- Mining unique hashes based on time
+- Sending TSH between users with fees
+- Admin broadcasting
+- User balance tracking
 - Top miners leaderboard
 - SQLite-based persistence
 
+---
+
 ## 🔒 License
 
-This project is licensed under the **No License — Read Only** license (see [LICENSE](LICENSE)).
+See [LICENSE](LICENSE) file for full terms.
 
-You are free to read and study this code, but **no use, redistribution, or modification is allowed** without prior written consent.
+You are allowed to:
+✅ Read and study the code
+
+You are NOT allowed to:
+❌ Use this code in your projects
+❌ Modify or redistribute
+❌ Copy or store the code
+❌ Embed parts of the code into other works
+
+---
 
 ## ✅ Requirements
 
